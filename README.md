@@ -17,4 +17,6 @@ cd weather-app
 npm install
 npm run dev
 
+```
+
 ![Weather App Preview](docs/preview.PNG)
